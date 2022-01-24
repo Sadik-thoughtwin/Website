@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:#cc99ff;
+}
+
+.main{
+    /* border: 2px solid red; */
+    margin: 100px auto;
+    width: 100vh;
+}
